@@ -13,6 +13,11 @@ Delete Contacts: Remove unwanted contacts from the list for better organization.
 
 Purpose:
 The Contact App List simplifies contact management, offering a convenient platform to organize, update, and maintain a personalized contact directory, ensuring users have quick and easy access to their important contacts.
+
+# OUTPUT
+
 ![g3](https://github.com/coderammad/Contact_List/assets/124549602/23fc8e6d-9973-442d-a218-485af11608c4)
+
 ![g2](https://github.com/coderammad/Contact_List/assets/124549602/4f9a1b83-287d-4479-8d6e-1bd2918f967c)
+
 ![g](https://github.com/coderammad/Contact_List/assets/124549602/da7bda7c-cb5b-4f37-89dd-356c68207c6a)
